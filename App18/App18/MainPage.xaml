@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App18"
+             x:Class="App18.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="1" BackgroundColor="LightBlue" VerticalOptions="Center" HorizontalOptions="Center" Padding="50" >
+            <Label x:Name="Label_Display" Text="Display Label" HorizontalOptions="Center"/>
+            <Button Text="Enter" Clicked="Button_Enter_OnClick" HorizontalOptions="Center"/>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

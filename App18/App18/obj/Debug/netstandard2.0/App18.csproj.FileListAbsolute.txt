@@ -1,0 +1,12 @@
+C:\Users\Andrew\source\repos\App18\App18\App18\bin\Debug\netstandard2.0\App18.deps.json
+C:\Users\Andrew\source\repos\App18\App18\App18\bin\Debug\netstandard2.0\App18.dll
+C:\Users\Andrew\source\repos\App18\App18\App18\bin\Debug\netstandard2.0\App18.pdb
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App18.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App18.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App18.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App18.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App18.dll
+C:\Users\Andrew\source\repos\App18\App18\App18\obj\Debug\netstandard2.0\App18.pdb
